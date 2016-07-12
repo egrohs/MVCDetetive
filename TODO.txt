@@ -1,0 +1,15 @@
+As funcoes RMi nao devem fazer distinção entre chamadas locais e remotas...
+Nao esta aceitando Nomes com espaços
+tentar reduzir os try ao maximo
+
+nao deixar atravessar paredes! se esta em 'p' e tem uma letra MAIUSCULA adjacesnte entao entra.
+fazer o pedido valer apenas da sala que se está!
+qndo clicar no board e nao tiver movimento suficiente, ir pra a posicao mais proxima!
+Fazer a carta clicada diminuir
+qndo entrar numa sala mover o piao pro canto, pra nao obstruir a entrada???
+rever as funcoes de findnext e asknext, tentar diminui-las e otimiza-las
+usar lista circular invez de arraylist, java ja possui lista circular???
+acusacao pode ser feita de qlqr lugar ou deve-se estar dentro de uma sala?
+fazer consistencia da carta mostrada!
+
+descobrir pq a findpath esta funcionando mesmo no teleport?!
